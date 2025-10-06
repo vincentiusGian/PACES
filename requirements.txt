@@ -3,10 +3,11 @@ ultralytics==8.2.56
 torch==2.3.0+cpu
 torchvision==0.18.0+cpu
 torchaudio==2.3.0+cpu
-opencv-python-headless==4.10.0.84
+opencv-python-headless==4.8.1.78
 numpy==1.26.4
 Pillow==10.3.0
 requests==2.32.3
 typing_extensions==4.12.2
 
 --extra-index-url https://download.pytorch.org/whl/cpu
+
